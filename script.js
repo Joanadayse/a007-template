@@ -29,7 +29,7 @@
 //assim o valor de A seria o valor de B e virse e versa 
 
 
-let a = 30;
+//let a = 30;
 let b = 20;
 let c;
 c=a
